@@ -1,0 +1,15 @@
+{
+    "webhook": "",
+    "iconurl": "https://cdn.discordapp.com/attachments/993612834401427588/994680590446112828/shield-png.png",
+    "thumbnailurl": "https://cdn.discordapp.com/attachments/993612834401427588/994681042122330272/trollface.png",
+    "bottomimageurl": "https://cdn.discordapp.com/attachments/993612834401427588/994683861994852362/standard_1.gif",
+    "tcpdumpinterface": "eth0",
+    "embedtitle": "Attack Detected!",
+    "authortitle": "XLOAD DDoS Notifications",
+    "servertitle": "XLOAD",
+    "ppsthres": "5000",
+    "logtype": "telegram",
+    "apiasnkey": "",
+    "telegrambottoken": "",
+    "telegramreceiverid": ""
+}
